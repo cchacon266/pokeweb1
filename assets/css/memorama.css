@@ -12,7 +12,7 @@
     padding: 0;
     margin: 0;
     -webkit-perspective: 1000;
-    background: rgba(212, 209, 211, 0.993);
+    background: rgba(255, 255, 255, 0.993);
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -76,11 +76,12 @@ div {
 
 .nuevo-juego {
     cursor: pointer;
-    background: linear-gradient(orange, darkorange);
-    padding: 20px;
-    border-radius: 50px;
-    border: white 3px solid;
-    font-size: 130%;
+    background: #fc3729;
+    padding: 15px;
+    border-radius: 30px;
+    border: white 2px solid;
+    font-size: 100%;
+    color: rgb(255, 255, 255);
 }
 
 
