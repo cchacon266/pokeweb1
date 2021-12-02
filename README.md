@@ -1,2 +1,2 @@
-# pokeweb1
-pagina principal de pokeweb
+# durangoesports
+pagina oficial del clan durango esports
